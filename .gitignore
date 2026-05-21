@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.spec
+build/
+dist/
+dist_*/
+*.egg-info/
+*.egg
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project runtime
+*.db
+*.db-shm
+*.db-wal
+invoices/
+exports/
+assets/icon_preview.png
+assets/icon_test.png
+
+# Installer output
+installer/
+
+# Environment
+.env
+*.env.local
